@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:installRACECAR">
+   </FileRef>
+   <FileRef
+      location = "group:racecar">
+   </FileRef>
+   <FileRef
+      location = "group:racecar_gazebo">
+   </FileRef>
+   <FileRef
+      location = "group:racecar_simulator">
+   </FileRef>
+   <FileRef
+      location = "group:racecargraph_teleop_NODESONLY.png">
+   </FileRef>
+   <FileRef
+      location = "group:racecargraph_teleop.png">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+   <FileRef
+      location = "group:vesc">
+   </FileRef>
+</Workspace>
